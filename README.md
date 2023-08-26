@@ -1,0 +1,10 @@
+- MVC
+- Jsp,Servlet
+- embed Instagram feed
+- live chat
+- integrate with Email Marketing platform (collect subcriber and send promotion code after subcribe)
+- Forgot password (send otp to email)
+- captcha check before log in
+- autocomplete google place api
+- send email  order confirmation
+- 
